@@ -1,11 +1,11 @@
-- Darkomen has 16 years of XP in the game of dev
-- Darkomen knows the base front threesome : HTML, CSS, JS
-- Darkomen had tried the .NET & Java but it discover the Symfony of the code
-- Darkomen like Node.JS eco-system and particulary Vue.JS framework
+- Darkomen has 17 years of XP in the game of dev
+- Darkomen knows this front threesome : HTML, CSS, JS
+- Darkomen had tried the .NET & Java but it discover the Symfony of the code with PHP
+- Darkomen like Node.JS eco-system because Vue.JS framework
 - Darkomen know the DevOps tasks with Docker, Vagrant or AWS and also GitLab/GitHub
+- Darkomen god is K8s
 - Darkomen loves Flutter and money
 - Darkomen loves music technologies
-- Darkomen is the only one who knows darkomen
 
 
 ![github](#C90827)
