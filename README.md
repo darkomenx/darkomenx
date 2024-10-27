@@ -3,7 +3,7 @@
 - Darkomen had tried the .NET & Java but it discover the Symfony of the code with PHP
 - Darkomen like Node.JS eco-system because Vue.JS framework
 - Darkomen know the DevOps tasks with Docker, Vagrant or AWS and also GitLab/GitHub
-- Darkomen god is K8s
+- Darkomen's god is K8s
 - Darkomen loves Flutter and money
 - Darkomen loves music technologies
 
